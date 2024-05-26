@@ -1,0 +1,2 @@
+# tradeGit
+deploy apple
